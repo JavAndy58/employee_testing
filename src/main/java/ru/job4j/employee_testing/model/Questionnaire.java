@@ -1,7 +1,6 @@
 package ru.job4j.employee_testing.model;
 
 import lombok.Data;
-
 import java.util.ArrayList;
 import java.util.List;
 
